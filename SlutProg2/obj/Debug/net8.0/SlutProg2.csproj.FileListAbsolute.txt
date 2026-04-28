@@ -1,0 +1,15 @@
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\bin\Debug\net8.0\SlutProg2.exe
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\bin\Debug\net8.0\SlutProg2.deps.json
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\bin\Debug\net8.0\SlutProg2.runtimeconfig.json
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\bin\Debug\net8.0\SlutProg2.dll
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\bin\Debug\net8.0\SlutProg2.pdb
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\obj\Debug\net8.0\SlutProg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\obj\Debug\net8.0\SlutProg2.AssemblyInfoInputs.cache
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\obj\Debug\net8.0\SlutProg2.AssemblyInfo.cs
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\obj\Debug\net8.0\SlutProg2.csproj.CoreCompileInputs.cache
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\obj\Debug\net8.0\SlutProg2.sourcelink.json
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\obj\Debug\net8.0\SlutProg2.dll
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\obj\Debug\net8.0\refint\SlutProg2.dll
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\obj\Debug\net8.0\SlutProg2.pdb
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\obj\Debug\net8.0\SlutProg2.genruntimeconfig.cache
+C:\Users\nilo.tengman\PROG2\SlutProg2\SlutProg2\obj\Debug\net8.0\ref\SlutProg2.dll
