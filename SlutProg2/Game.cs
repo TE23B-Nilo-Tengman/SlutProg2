@@ -151,7 +151,7 @@ public class Game
         {
             Console.WriteLine($"Du hittade: {room.Loot.Name}");
             player.Inventory.Add(room.Loot);
-            room.Loot = null; // förhindrar dubbla loot
+            room.Loot = null; // här e inte loot längre
         }
     }
 }
